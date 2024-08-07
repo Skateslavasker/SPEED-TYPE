@@ -2,6 +2,8 @@
 
 The **SpeedType App** is a simple web application designed to help users improve their typing speed and accuracy. Users can practice typing random paragraphs within a set time limit and track their performance metrics such as words per minute (WPM), characters per minute (CPM), and mistakes.
 
+[OPEN LINK](https://skateslavasker.github.io/SPEED-TYPE/)
+
 ## Features
 
 - **Random Paragraph Generation**: The app generates a random paragraph for each typing session to ensure varied practice.
